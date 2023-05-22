@@ -12,7 +12,7 @@ Please do. For some reason, I believe that the Plan 9 operating system should co
   - [Resources](#resources)
   - [Applications](#applications)
   - [Sites](#sites)
-  - [Books](#books)
+  - [Books / Articles](#books)
   - [Languages](#languages)
   
 ## Resources
@@ -31,13 +31,39 @@ A plethora of applications can be found here and you are free to use them and ev
 * [9p.mom/f](http://9p.mom/f) - Files for hacking together bootable things without easy access to a 9front system
 * [NOPE NOPE NOPE](http://nopenopenope.net/) - qwx's site with 9front usage tips and software
 
-## Books
+## Books / Articles
 
-* [Introduction to OS Abstractions Using Plan 9 from Bell Labs" by Francisco Ballesteros] (https://www.amazon.com/Introduction-Abstractions-Using-Plan-Bell/dp/B005D2S5H0)
+* [Introduction to OS Abstractions Using Plan 9 from Bell Labs] (https://www.amazon.com/Introduction-Abstractions-Using-Plan-Bell/dp/B005D2S5H0)
 * [9FRONT PROGRAMMER'S MANUAL V8" by Stanley Lieber] (https://www.amazon.com/Introduction-Abstractions-Using-Plan-Bell/dp/B005D2S5H0)
 * [Inferno Programming with Limbo" by Phillip Stanley-Marbell] (https://www.amazon.com/Introduction-Abstractions-Using-Plan-Bell/dp/B005D2S5H0)
 * [Software Projects: Plan 9 from Bell Labs" (Author not specified)] (https://www.find-more-books.com/book/isbn/9781156607763.html)
-* [The Plan 9 from Bell Labs Operating System" by Francisco J Ballesteros] (https://www.linkedin.com/pulse/plan-9-operating-system-decades-ahead-its-time-anastasios-papalias)
+* [Plan 9: An Operating System Decades Ahead of Its Time] (https://www.linkedin.com/pulse/plan-9-operating-system-decades-ahead-its-time-anastasios-papalias)
 
+## Languages
 
+This is a list of programming anguages which are known to be buildable/operational on Plan 9 operating system.
 
+* [aa](https://git.sr.ht/~ft/aa) - A tiny, embeddable Lisp-like language
+* [c4](https://github.com/henesy/c4) - C in 4 functions
+* [cfront](http://www.quintile.net/plan9/c++/index.html) - Archaic C++ pre-compiler 
+* [Chibi Scheme](https://github.com/ashinn/chibi-scheme) - A small embeddable scheme implementation 
+* [clox9](https://github.com/henesy/clox9) -  Port of Nystrom's clox implementation of the Lox language to Plan9 
+* [Go](https://golang.org/) - The Go programming language
+* [Hugs](https://9p.io/wiki/plan9/Contrib_index/index.html) - Haskell98 interpreter
+* [Idris 2](https://git.sr.ht/~ft/idris2) - A dependently typed programming language, pre-alpha port
+* [Lua](http://download.redis.io/releases/redis-3.0.1.tar.gz) - Lua from Redis
+    * [Lua (lu9)](https://sr.ht/~kvik/lu9/) - Lua from kvik
+    * [Fennel](https://fennel-lang.org/) - Fennel via lu9 (thanks grimmware)
+    * [Lua (5.0.2)](https://9p.io/wiki/plan9/Contrib_index/index.html) Lua for APE
+* [Myrddin](https://myrlang.org/) - Systems language by Ori Bernstein
+* [nhc98](https://9p.io/sources/contrib/fernan/nhc98/) - Haskell compiler
+* [Ocaml](http://caml.inria.fr/pub/distrib/ocaml-4.07/ocaml-4.07.1.tar.gz) - Ocaml
+* [Perl](9p.io/sources/extra/perl.iso.bz2) - Perl
+* [Python 2](http://git.9front.org/plan9front/pyhg/HEAD/info.html)
+* [Scheme 9](https://t3x.org/s9fes/) - Scheme 9 from Empty Space
+* [sxm](https://9p.io/wiki/plan9/Contrib_index/index.html) - The sxm scheme language
+* [Squeak](https://github.com/henesy/squeak) - Squeak/Smalltalk from de0u/squeak
+* [Tcl](https://9p.io/sources/contrib/fgb/root/sys/src/cmd/tcl/) - Tcl port by fgb
+* [TinyScheme](https://download.sourceforge.net/tinyscheme/tinyscheme-1.41.tar.gz) - TinyScheme
+* [UMB Scheme](https://9p.io/wiki/plan9/Contrib_index/index.html) - UMB Scheme
+* [uxn](https://sr.ht/~rabbits/uxn/) - A small stack machine
