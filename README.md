@@ -1,4 +1,4 @@
-![]([https://github.com/AnastasiosPapalias/banner.png](https://github.com/AnastasiosPapalias/Plan9/blob/main/banner.png)]
+![](https://github.com/AnastasiosPapalias/Plan9/blob/main/banner.png)
 
 # Plan 9
 
