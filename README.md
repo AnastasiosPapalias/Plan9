@@ -11,7 +11,6 @@ Please do. For some reason, I believe that the Plan 9 operating system should co
 - [Plan9](#plan9)
   - [Resources](#resources)
   - [Applications](#applications)
-  - [Mods](#mods)
   - [Sites](#sites)
   - [Books](#books)
   - [Languages](#languages)
@@ -25,10 +24,6 @@ Please do. For some reason, I believe that the Plan 9 operating system should co
 ## Applications
 
 A plethora of applications can be found here and you are free to use them and even suggest for now ones.
-
-## Mods
-
-Beautification of Plan 9 / 9front environment and how to achieve it.
 
 ## Sites
 
