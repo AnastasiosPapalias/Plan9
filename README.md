@@ -35,14 +35,14 @@ A plethora of applications can be found here and you are free to use them and ev
 
 ## Books
 
-* [Introduction to OS Abstractions Using Plan 9 from Bell Labs] (https://www.amazon.com/Introduction-Abstractions-Using-Plan-Bell/dp/B005D2S5H0)
-* [9FRONT PROGRAMMER'S MANUAL V8" by Stanley Lieber] (https://www.amazon.com/Introduction-Abstractions-Using-Plan-Bell/dp/B005D2S5H0)
-* [Inferno Programming with Limbo" by Phillip Stanley-Marbell] (https://www.amazon.com/Introduction-Abstractions-Using-Plan-Bell/dp/B005D2S5H0)
-* [Software Projects: Plan 9 from Bell Labs" (Author not specified)] (https://www.find-more-books.com/book/isbn/9781156607763.html)
+* [Introduction to OS Abstractions Using Plan 9 from Bell Labs by Francisco Ballesteros ](https://www.amazon.com/Introduction-Abstractions-Using-Plan-Bell/dp/B005D2S5H0)
+* [9FRONT PROGRAMMER'S MANUAL V8 by Stanley Lieber](https://www.amazon.com/Introduction-Abstractions-Using-Plan-Bell/dp/B005D2S5H0)
+* [Inferno Programming with Limbo by Phillip Stanley-Marbell](https://www.amazon.com/Introduction-Abstractions-Using-Plan-Bell/dp/B005D2S5H0)
+* [Software Projects: Plan 9 from Bell Labs (Author not specified)](https://www.find-more-books.com/book/isbn/9781156607763.html)
 
 ## Articles
 
-* [Plan 9: An Operating System Decades Ahead of Its Time] (https://www.linkedin.com/pulse/plan-9-operating-system-decades-ahead-its-time-anastasios-papalias)
+* [Plan 9: An Operating System Decades Ahead of Its Time by Anastasios Papalias](https://www.linkedin.com/pulse/plan-9-operating-system-decades-ahead-its-time-anastasios-papalias)
 
 ## Languages
 
