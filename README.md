@@ -12,8 +12,10 @@ Please do. For some reason, I believe that the Plan 9 operating system should co
   - [Resources](#resources)
   - [Applications](#applications)
   - [Sites](#sites)
-  - [Books / Articles](#books)
+  - [Books](#books)
+  - [Articles](#articles)
   - [Languages](#languages)
+  - [Forks](#forks)
   
 ## Resources
 
@@ -31,12 +33,15 @@ A plethora of applications can be found here and you are free to use them and ev
 * [9p.mom/f](http://9p.mom/f) - Files for hacking together bootable things without easy access to a 9front system
 * [NOPE NOPE NOPE](http://nopenopenope.net/) - qwx's site with 9front usage tips and software
 
-## Books / Articles
+## Books
 
 * [Introduction to OS Abstractions Using Plan 9 from Bell Labs] (https://www.amazon.com/Introduction-Abstractions-Using-Plan-Bell/dp/B005D2S5H0)
 * [9FRONT PROGRAMMER'S MANUAL V8" by Stanley Lieber] (https://www.amazon.com/Introduction-Abstractions-Using-Plan-Bell/dp/B005D2S5H0)
 * [Inferno Programming with Limbo" by Phillip Stanley-Marbell] (https://www.amazon.com/Introduction-Abstractions-Using-Plan-Bell/dp/B005D2S5H0)
 * [Software Projects: Plan 9 from Bell Labs" (Author not specified)] (https://www.find-more-books.com/book/isbn/9781156607763.html)
+
+## Articles
+
 * [Plan 9: An Operating System Decades Ahead of Its Time] (https://www.linkedin.com/pulse/plan-9-operating-system-decades-ahead-its-time-anastasios-papalias)
 
 ## Languages
@@ -67,3 +72,14 @@ This is a list of programming anguages which are known to be buildable/operation
 * [TinyScheme](https://download.sourceforge.net/tinyscheme/tinyscheme-1.41.tar.gz) - TinyScheme
 * [UMB Scheme](https://9p.io/wiki/plan9/Contrib_index/index.html) - UMB Scheme
 * [uxn](https://sr.ht/~rabbits/uxn/) - A small stack machine
+
+## Forks
+
+* [9ants](http://9gridchan.org/) - Mycroftiv's fork (of 9front) featuring a modified kernel and custom namespace control tooling
+* [9atom (deprecated?)](http://mirror.postnix.pw/9atom/INSTALLERS/) - Erik Quanstrom's fork (mirror)
+* [9front](http://9front.org/) - Fork featuring new protocols, file systems, and greatly expanded hardware support
+* [9legacy](http://9legacy.org/) - Fork which continues maintaining a Bell Labs-like source base
+  * [9pi](https://9p.io/sources/contrib/miller/) - Port of 9legacy to the Raspberry Pi
+* [Harvey](https://harvey-os.org/) - An MIT-licensed OS based on Plan 0
+* [Jehanne](http://jehanne.io/) - Giacomo Tesio's fork
+* [Nix (deprecated)](https://lsub.org/nix/) - A fork of Plan 9 focused on high performance parallel cloud computing
