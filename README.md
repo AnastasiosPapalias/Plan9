@@ -76,7 +76,7 @@ This is a list of programming anguages which are known to be buildable/operation
 ## Forks
 
 * [9ants](http://9gridchan.org/) - Mycroftiv's fork (of 9front) featuring a modified kernel and custom namespace control tooling
-* [9atom (deprecated?)](http://mirror.postnix.pw/9atom/INSTALLERS/) - Erik Quanstrom's fork (mirror)
+* [9atom](http://mirror.postnix.pw/9atom/INSTALLERS/) - Erik Quanstrom's fork (mirror)
 * [9front](http://9front.org/) - Fork featuring new protocols, file systems, and greatly expanded hardware support
 * [9legacy](http://9legacy.org/) - Fork which continues maintaining a Bell Labs-like source base
   * [9pi](https://9p.io/sources/contrib/miller/) - Port of 9legacy to the Raspberry Pi
