@@ -11,32 +11,27 @@ Whether you're a computing enthusiast or a seasoned professional in the field, t
 
 **Table 1: Article Outline**
 
-- [Plan 9 on Blue Gene Supercomputer: An Unparalleled Symbiosis in High-Performance Computing]
-  - [Introduction to Blue Gene Supercomputer](#introduction-to-blue-gene-supercomputer))
+- [Plan 9 on Blue Gene Supercomputer: An Unparalleled Symbiosis in High-Performance Computing](#bluegene)
+  - [Introduction to Blue Gene Supercomputer](#introduction-to-blue-gene-supercomputer)
+  - [Brief Overview of Plan 9](#brief-overview-of-plan-9)
+  - [Exploring the Connection between Plan 9 and Blue Gene](exploring-the-connection-between-plan-9-and-blue-gene)
+    - [What is Blue Gene Supercomputer?](#what-is-blue-gene-supercomputer)
+    - [The Genesis of Plan 9](#the-genesis-of-plan-9)
+    - [Why Use Plan 9 on Blue Gene?](#why-use-plan-9-on-blue-gene)
+      - [The Architecture of Blue Gene](#the-architecture-of-blue-gene)
+      - [Understanding the Design of Plan 9](understanding-the-design-of-plan-9)
+      - [Advantages of Plan 9 on Blue Gene](#advantages-of-plan-9-on-blue-gene)  
+  - [Technical Aspects of Plan 9 and Blue Gene](#technical-aspects-of-plan-9-and-blue-gene)
+    - [Performance Metrics](#performance-metrics)
+    - [Scalability and Adaptability](#scalability-and-adaptability)
+      - [System Design](#system-design)
+      - [Programming Environment](#programming-environment)
+  - [Future Prospects of Plan 9 on Blue Gene](#future-prospects-of-plan-9-on-blue-gene)
+    - [Research and Development](#research-and-development)
+    - [Industry Trends](#industry-trends)
+  - [Conclusion / FAQ](#conclusion)
+  - [Documentation](#documentation)   
 
-| Heading Level | Content |
-|---------------|---------|
-| H1 | Introduction to Blue Gene Supercomputer |
-| H2 | Brief Overview of Plan 9 |
-| H2 | Exploring the Connection between Plan 9 and Blue Gene |
-| H3 | What is Blue Gene Supercomputer? |
-| H3 | The Genesis of Plan 9 |
-| H3 | Why Use Plan 9 on Blue Gene? |
-| H4 | The Architecture of Blue Gene |
-| H4 | Understanding the Design of Plan 9 |
-| H4 | Advantages of Plan 9 on Blue Gene |
-| H2 | Technical Aspects of Plan 9 and Blue Gene |
-| H3 | Performance Metrics |
-| H3 | Scalability and Adaptability |
-| H4 | System Design |
-| H4 | Programming Environment |
-| H2 | Future Prospects of Plan 9 on Blue Gene |
-| H3 | Research and Development |
-| H3 | Industry Trends |
-| H2 | Conclusion |
-| H4 | Frequently Asked Questions |
-
-**Table 2: Article Content**
 
 ## **Introduction to Blue Gene Supercomputer**
 
