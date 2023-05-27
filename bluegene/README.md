@@ -29,7 +29,8 @@ Whether you're a computing enthusiast or a seasoned professional in the field, t
   - [Future Prospects of Plan 9 on Blue Gene](#future-prospects-of-plan-9-on-blue-gene)
     - [Research and Development](#research-and-development)
     - [Industry Trends](#industry-trends)
-  - [Conclusion / FAQ](#conclusion)
+  - [Conclusion](#conclusion)
+      - [Frequently Asked Questions](#frequently-asked-questions)
   - [Documentation](#documentation)   
 
 
@@ -139,7 +140,7 @@ The convergence of Plan 9 and Blue Gene has ushered in a new era of supercomputi
 
 As we look to the future, it's clear that this amalgamation will continue to play a pivotal role. The journey of discovery and innovation is an ongoing process, and systems like Blue Gene running on Plan 9 will be at the forefront, driving advances in research and shaping industry trends.
 
-**Frequently Asked Questions**
+#### **Frequently Asked Questions**
 
 1. **What is the Blue Gene supercomputer?**
 Blue Gene is a series of supercomputers from IBM designed for high-performance, energy-efficient computing. It's used for complex computations in various scientific fields.
