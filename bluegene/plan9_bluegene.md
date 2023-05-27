@@ -158,3 +158,6 @@ Running Plan 9 on Blue Gene enhances performance, enables efficient resource sha
 5. **What is the future of Plan 9 and Blue Gene?**
 As computational needs evolve, the combined capabilities of Plan 9 and Blue Gene will continue to drive advancements in computational science, enabling researchers to tackle bigger and more complex problems.
 
+## Documentation 
+
+- [Night of the Lepus - A Plan 9 Perspective on Blue Gene’s Interconnects.](https://doc.cat-v.org/plan_9/blue_gene/night_of_the_lepus/lepus.pdf)
