@@ -161,3 +161,9 @@ As computational needs evolve, the combined capabilities of Plan 9 and Blue Gene
 ## Documentation 
 
 - [Night of the Lepus - A Plan 9 Perspective on Blue Gene’s Interconnects.](https://doc.cat-v.org/plan_9/blue_gene/night_of_the_lepus/lepus.pdf)
+- [Petascale Plan 9 on Blue Gene.](https://www.usenix.org/legacy/event/usenix07/posters/vanhensbergen.pdf)
+- [Porting Plan 9 to the IBM BG/L Supercomputer.](https://doc.cat-v.org/plan_9/blue_gene/porting_to_bgl/lanl.bglport.pdf)
+- [Usenix 2007 Poster.](https://doc.cat-v.org/plan_9/blue_gene/usenix-poster.pdf)
+
+
+
