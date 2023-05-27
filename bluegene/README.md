@@ -12,7 +12,7 @@ Whether you're a computing enthusiast or a seasoned professional in the field, t
 **Table 1: Article Outline**
 
 - [Plan 9 on Blue Gene Supercomputer: An Unparalleled Symbiosis in High-Performance Computing]
-  - [Introduction to Blue Gene Supercomputer](##Introduction to Blue Gene Supercomputer)
+  - [Introduction to Blue Gene Supercomputer](#introduction-to-blue-gene-supercomputer))
 
 | Heading Level | Content |
 |---------------|---------|
