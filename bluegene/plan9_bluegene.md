@@ -47,8 +47,6 @@ Before we delve deeper, it's essential to have a basic understanding of Plan 9. 
 
 It may seem like an odd couple - an operating system and a supercomputer. Yet, there's more to the story than meets the eye.
 
-**Table 2: Article Content (Continuation)**
-
 ### **What is Blue Gene Supercomputer?**
 
 Diving deeper, let's shine a spotlight on the Blue Gene supercomputer, a marvel in the field of high-performance computing. Blue Gene is a series of supercomputers that were developed and launched by IBM to make significant strides in the realms of scientific, biological, and climatic research.
@@ -71,8 +69,6 @@ Combined with Blue Gene's focus on scalability and energy efficiency, this partn
 
 The synergy between Blue Gene and Plan 9 signifies a remarkable milestone in supercomputing, opening doors to possibilities previously unimagined.
 
-**Table 2: Article Content (Continuation)**
-
 #### **The Architecture of Blue Gene**
 
 To fully comprehend the performance capabilities of Blue Gene, we must delve into its architecture. Blue Gene's design is based on a multitude of compact, power-efficient processors that operate in parallel, providing immense computational abilities. Its computing nodes are packed into high-density racks, with a communication infrastructure designed to sustain high performance and low latency.
@@ -94,8 +90,6 @@ Not only does this union streamline resource sharing and process orchestration, 
 Additionally, this pairing facilitates the execution of complex computational tasks and scientific simulations with unprecedented efficiency and speed, all while managing resources effectively. 
 
 Whether it's breaking new ground in genomic research or making strides in climate modeling, the advantages of running Plan 9 on Blue Gene are vast and impactful.
-
-**Table 2: Article Content (Continuation)**
 
 ## **Technical Aspects of Plan 9 and Blue Gene**
 
@@ -122,8 +116,6 @@ On the flip side, Plan 9's design perfectly caters to this multi-node, many-core
 #### **Programming Environment**
 
 Plan 9's programming environment is simple yet powerful, designed to enable developers to write efficient code for distributed systems. This simplicity, when coupled with Blue Gene's computational capabilities, creates a conducive environment for executing complex algorithms and applications. Whether you're simulating the earth's climate or decoding the human genome, Plan 9 on Blue Gene provides the tools to drive these calculations forward.
-
-**Table 2: Article Content (Continuation)**
 
 ## **Future Prospects of Plan 9 on Blue Gene**
 
