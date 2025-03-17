@@ -2,7 +2,7 @@
 
 # Plan 9
 
-A collection of software and libraries for the Plan 9 operating system. Many of the applications listed here are available under the 9front [ports tree](https://code.9front.org/hg/ports).
+Down the Rabbit Hole 🐇 - A collection of software and libraries for the Plan 9 operating system. Many of the applications listed here are available under the 9front [ports tree](https://code.9front.org/hg/ports).
 
 ### Contributing
 
