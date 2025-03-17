@@ -16,6 +16,7 @@ Please do. For some reason, I believe that the Plan 9 operating system should co
   - [Articles](#articles)
   - [Languages](#languages)
   - [Forks](#forks)
+  - [Support](#support)
   
 ## Resources
 
@@ -84,3 +85,13 @@ This is a list of programming anguages which are known to be buildable/operation
 * [Harvey](https://harvey-os.org/) - An MIT-licensed OS based on Plan 0
 * [Jehanne](http://jehanne.io/) - Giacomo Tesio's fork
 * [Nix (deprecated)](https://lsub.org/nix/) - A fork of Plan 9 focused on high performance parallel cloud computing
+
+## Support
+
+If you find this repository helpful, consider supporting my work:
+
+- Star this repository
+- Share it with others who might benefit
+- [Buy me a coffee ☕](https://buymeacoffee.com/tasospapalias)
+
+Your support helps me dedicate more time to improving these resources and creating new content.
