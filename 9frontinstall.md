@@ -1,4 +1,5 @@
-https://github.com/AnastasiosPapalias/Plan9/blob/main/Glenda%20Toy%20Packaging.png
+![](https://github.com/AnastasiosPapalias/Plan9/blob/main/Glenda%20Toy%20Packaging.png)
+
 
 # 9front Installation Guide
 
