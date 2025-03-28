@@ -14,6 +14,7 @@ Please do. For some reason, I believe that the Plan 9 operating system should co
   - [Sites](#sites)
   - [Books](#books)
   - [Articles](#articles)
+  - [How-tos](#howtos)
   - [Languages](#languages)
   - [Forks](#forks)
   - [Support](#support)
@@ -45,6 +46,10 @@ A plethora of applications can be found here and you are free to use them and ev
 ## Articles
 
 * [Plan 9: An Operating System Decades Ahead of Its Time by Anastasios Papalias](https://www.linkedin.com/pulse/plan-9-operating-system-decades-ahead-its-time-anastasios-papalias)
+
+## How-tos
+
+* [9front Installation Guide](https://github.com/AnastasiosPapalias/Plan9/blob/main/9frontinstall.md)
 
 ## Languages
 
