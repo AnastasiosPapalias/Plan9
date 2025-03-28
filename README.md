@@ -14,7 +14,7 @@ Please do. For some reason, I believe that the Plan 9 operating system should co
   - [Sites](#sites)
   - [Books](#books)
   - [Articles](#articles)
-  - [How-tos](#howtos)
+  - [How-tos](#how-tos)
   - [Languages](#languages)
   - [Forks](#forks)
   - [Support](#support)
