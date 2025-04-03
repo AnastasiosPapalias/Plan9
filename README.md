@@ -51,6 +51,7 @@ A plethora of applications can be found here and you are free to use them and ev
 * [Chatting on discord from 9front](https://github.com/AnastasiosPapalias/Plan9/blob/main/discord/readme.md)
 * [How I get TLS certificates for 9front](https://github.com/AnastasiosPapalias/Plan9/blob/main/letsencrypt/readme.md)
 * [Plan 9 for Modern Infrastructures](https://github.com/AnastasiosPapalias/Plan9/blob/main/p9modern/readme.md)
+* [Trying Lola for Plan 9](https://github.com/AnastasiosPapalias/Plan9/blob/main/lola/readme.md)
 
 ## How-tos
 
