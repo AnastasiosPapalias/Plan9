@@ -1,3 +1,5 @@
+![Harvey OS Banner](https://github.com/AnastasiosPapalias/Plan9/blob/main/harveyOS/harvey-os-logo.svg)
+
 ### Key Points
 - It seems likely that Harvey OS, a retired Plan 9 variant, aimed to modernize with GCC support for easier software development, but it’s no longer active.
 - Research suggests it offered better portability and ANSI/POSIX compliance via APEX, fitting niche IT uses like IoT, though it faced challenges like retirement in 2023.
