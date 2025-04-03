@@ -1,4 +1,4 @@
-# How I get tls certificates for 9front
+# How I get TLS certificates for 9front
 
 First of all, I use linux and drawterm for this for now, but I would like to be able to do it all from 9front at some point.
 
