@@ -147,14 +147,3 @@ Lola’s not a Rio replacement yet—it’s a proof you can bend Plan 9’s UI w
 - [Themes for Lola](http://aap.papnet.eu/pub/plan9/themes/Themes.html)
 ```
 
----
-
-### Formatting Notes
-- **Headings**: Used `#` for the title, `##` for sections, ensuring hierarchy.
-- **Code Blocks**: Wrapped commands in ```bash``` for proper syntax highlighting.
-- **Lists**: Used `-` for bullets under "Key Points" and numbered lists for "Step-by-Step Installation Recap."
-- **Tables**: Aligned columns with pipes `|` and dashes `-` for readability.
-- **Links**: Embedded as `[text](url)` for GitHub compatibility.
-- **Text**: Kept conversational style intact, with no stray backticks or formatting errors.
-
-This version should render perfectly on GitHub. Let me know if you need further adjustments!
