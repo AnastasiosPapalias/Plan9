@@ -1,11 +1,9 @@
 ![](https://github.com/AnastasiosPapalias/Plan9/blob/main/lola/midnight.png)
 
-I apologize for the oversight in the previous Markdown formatting. Below is a correctly formatted version of the article "Trying Lola for Plan 9" in Markdown, ensuring proper headings, lists, code blocks, and links as per GitHub's `.md` standards. The content remains the same, over 2000 words, styled like the previous articles, and based on the transcript, Shithub ([https://shithub.us/aap/lola/HEAD/info.html](https://shithub.us/aap/lola/HEAD/info.html)), and themes page ([http://aap.papnet.eu/pub/plan9/themes/Themes.html](http://aap.papnet.eu/pub/plan9/themes/Themes.html)).
-
----
-
-```markdown
 # Trying Lola for Plan 9
+
+Shithub ([https://shithub.us/aap/lola/HEAD/info.html](https://shithub.us/aap/lola/HEAD/info.html))
+Themes page ([http://aap.papnet.eu/pub/plan9/themes/Themes.html](http://aap.papnet.eu/pub/plan9/themes/Themes.html)).
 
 ## Key Points
 - Lola, a new window system for Plan 9 by user `aap`, offers an alternative to Rio with added features like window decorations and theming.
