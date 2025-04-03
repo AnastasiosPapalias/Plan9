@@ -1,3 +1,4 @@
+![](https://github.com/AnastasiosPapalias/Plan9/blob/main/p9modern/p9-modern.jpg)
 
 ### Key Points
 - It seems likely that Plan 9 can be integrated into modern IT for niche uses like lightweight servers and research, but faces challenges with software compatibility.
