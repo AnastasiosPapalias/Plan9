@@ -57,6 +57,7 @@ A plethora of applications can be found here and you are free to use them and ev
 
 * [9front Installation Guide](https://github.com/AnastasiosPapalias/Plan9/blob/main/9frontinstall.md)
 * [9front in QEMU — Comprehensive Agent Training Document](https://github.com/AnastasiosPapalias/Plan9/blob/main/9front-qemu-training.md)
+* [9front OS Theming Resources](https://github.com/AnastasiosPapalias/Plan9/blob/main/9front-theming-resources.md)
 
 ## Languages
 
