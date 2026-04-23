@@ -39,19 +39,20 @@ A plethora of applications can be found here and you are free to use them and ev
 ## Books
 
 * [Introduction to OS Abstractions Using Plan 9 from Bell Labs by Francisco Ballesteros ](https://www.amazon.com/Introduction-Abstractions-Using-Plan-Bell/dp/B005D2S5H0)
-* [9FRONT PROGRAMMER'S MANUAL V8 by Stanley Lieber](https://www.amazon.com/Introduction-Abstractions-Using-Plan-Bell/dp/B005D2S5H0)
-* [Inferno Programming with Limbo by Phillip Stanley-Marbell](https://www.amazon.com/Introduction-Abstractions-Using-Plan-Bell/dp/B005D2S5H0)
+* [9FRONT PROGRAMMER'S MANUAL V8 by Stanley Lieber](https://www.amazon.com/9FRONT-PROGRAMMERS-MANUAL-Stanley-Lieber/dp/1075487714)
+* [Inferno Programming with Limbo by Phillip Stanley-Marbell](https://www.amazon.com/Inferno-Programming-Limbo-Phillip-Stanley-Marbell/dp/0470843527)
 * [Software Projects: Plan 9 from Bell Labs (Author not specified)](https://www.find-more-books.com/book/isbn/9781156607763.html)
 
 ## Articles
 
 * [Plan 9: An Operating System Decades Ahead of Its Time by Anastasios Papalias](https://www.linkedin.com/pulse/plan-9-operating-system-decades-ahead-its-time-anastasios-papalias)
-* [Using 9front as an authoritative DNS server](https://github.com/AnastasiosPapalias/Plan9/blob/main/DNSserver/readme.md)
+* [Using 9front as an authoritative DNS server](https://github.com/AnastasiosPapalias/Plan9/blob/main/DNSserver/README.md)
 * [Plan 9 on Blue Gene Supercomputer: An Unparalleled Symbiosis in High-Performance Computing](https://github.com/AnastasiosPapalias/Plan9/tree/main/bluegene#readme)
-* [Chatting on discord from 9front](https://github.com/AnastasiosPapalias/Plan9/blob/main/discord/readme.md)
-* [How I get TLS certificates for 9front](https://github.com/AnastasiosPapalias/Plan9/blob/main/letsencrypt/readme.md)
-* [Plan 9 for Modern Infrastructures](https://github.com/AnastasiosPapalias/Plan9/blob/main/p9modern/readme.md)
-* [Trying Lola for Plan 9](https://github.com/AnastasiosPapalias/Plan9/blob/main/lola/readme.md)
+* [Chatting on discord from 9front](https://github.com/AnastasiosPapalias/Plan9/blob/main/discord/README.md)
+* [How I get TLS certificates for 9front](https://github.com/AnastasiosPapalias/Plan9/blob/main/letsencrypt/README.md)
+* [Plan 9 for Modern Infrastructures](https://github.com/AnastasiosPapalias/Plan9/blob/main/p9modern/README.md)
+* [Trying Lola for Plan 9](https://github.com/AnastasiosPapalias/Plan9/blob/main/lola/README.md)
+* [Harvey OS: GCC Support and Modern Plan 9](https://github.com/AnastasiosPapalias/Plan9/blob/main/harveyOS/README.md)
 
 ## How-tos
 
@@ -68,7 +69,7 @@ This is a list of programming anguages which are known to be buildable/operation
 * [cfront](http://www.quintile.net/plan9/c++/index.html) - Archaic C++ pre-compiler 
 * [Chibi Scheme](https://github.com/ashinn/chibi-scheme) - A small embeddable scheme implementation 
 * [clox9](https://github.com/henesy/clox9) -  Port of Nystrom's clox implementation of the Lox language to Plan9 
-* [Go](https://golang.org/) - The Go programming language
+* [Go](https://go.dev/) - The Go programming language
 * [Hugs](https://9p.io/wiki/plan9/Contrib_index/index.html) - Haskell98 interpreter
 * [Idris 2](https://git.sr.ht/~ft/idris2) - A dependently typed programming language, pre-alpha port
 * [Lua](http://download.redis.io/releases/redis-3.0.1.tar.gz) - Lua from Redis
@@ -78,7 +79,7 @@ This is a list of programming anguages which are known to be buildable/operation
 * [Myrddin](https://myrlang.org/) - Systems language by Ori Bernstein
 * [nhc98](https://9p.io/sources/contrib/fernan/nhc98/) - Haskell compiler
 * [Ocaml](http://caml.inria.fr/pub/distrib/ocaml-4.07/ocaml-4.07.1.tar.gz) - Ocaml
-* [Perl](9p.io/sources/extra/perl.iso.bz2) - Perl
+* [Perl](http://9p.io/sources/extra/perl.iso.bz2) - Perl
 * [Python 2](http://git.9front.org/plan9front/pyhg/HEAD/info.html)
 * [Scheme 9](https://t3x.org/s9fes/) - Scheme 9 from Empty Space
 * [sxm](https://9p.io/wiki/plan9/Contrib_index/index.html) - The sxm scheme language
