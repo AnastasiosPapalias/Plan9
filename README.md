@@ -46,12 +46,12 @@ A plethora of applications can be found here and you are free to use them and ev
 ## Articles
 
 * [Plan 9: An Operating System Decades Ahead of Its Time by Anastasios Papalias](https://www.linkedin.com/pulse/plan-9-operating-system-decades-ahead-its-time-anastasios-papalias)
-* [Using 9front as an authoritative DNS server](https://github.com/AnastasiosPapalias/Plan9/blob/main/DNSserver/readme.md)
+* [Using 9front as an authoritative DNS server](https://github.com/AnastasiosPapalias/Plan9/blob/main/DNSserver/README.md)
 * [Plan 9 on Blue Gene Supercomputer: An Unparalleled Symbiosis in High-Performance Computing](https://github.com/AnastasiosPapalias/Plan9/tree/main/bluegene#readme)
-* [Chatting on discord from 9front](https://github.com/AnastasiosPapalias/Plan9/blob/main/discord/readme.md)
-* [How I get TLS certificates for 9front](https://github.com/AnastasiosPapalias/Plan9/blob/main/letsencrypt/readme.md)
-* [Plan 9 for Modern Infrastructures](https://github.com/AnastasiosPapalias/Plan9/blob/main/p9modern/readme.md)
-* [Trying Lola for Plan 9](https://github.com/AnastasiosPapalias/Plan9/blob/main/lola/readme.md)
+* [Chatting on discord from 9front](https://github.com/AnastasiosPapalias/Plan9/blob/main/discord/README.md)
+* [How I get TLS certificates for 9front](https://github.com/AnastasiosPapalias/Plan9/blob/main/letsencrypt/README.md)
+* [Plan 9 for Modern Infrastructures](https://github.com/AnastasiosPapalias/Plan9/blob/main/p9modern/README.md)
+* [Trying Lola for Plan 9](https://github.com/AnastasiosPapalias/Plan9/blob/main/lola/README.md)
 
 ## How-tos
 
